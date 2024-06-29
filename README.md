@@ -21,3 +21,7 @@ Enjoy!
 NOTE: When Opening Exodius Just Tap "start.bat" to Open Everytime!
 NOTE: Make sure you have Python 3.9+ and Added to Path.
 ```
+
+## Is Exodius Safe?
+
+- Exodius is 100% Safe to use, Half of the code is OBFUSCATED due to Illegal Purposes.
